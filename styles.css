@@ -1,0 +1,33 @@
+body {
+    background-color: aliceblue ;
+    margin: 0;
+    padding: 0;
+    list-style:square;
+
+}
+ul {
+  list-style-type: none;
+  background: #3399ff;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  background: rosybrown;
+  margin: 5px;
+}
+img {
+  background-color: lightgrey;
+  width: 300px;
+  border: 25px solid gold;
+  padding: 25px;
+  margin: 25px;
+}
+h2 {
+  border: 2px solid black;
+  outline: #4CAF50 solid 10px;
+  margin: auto;    
+  padding: 20px;
+  text-align: center;
+}
+With CSS,
